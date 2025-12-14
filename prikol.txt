@@ -1,0 +1,8 @@
+pip install pyyaml
+python manage.py generateschema > schema.yaml 
+
+npm -v
+npm i
+npm run start
+
+pip install django-cors-headers
